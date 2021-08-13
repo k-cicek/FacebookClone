@@ -2,7 +2,7 @@
 
 A Facebook Clone that you can sign in with your Google Account and send realtime posts.
 
-![](https://user-images.githubusercontent.com/79858870/129422800-e196c30c-1b51-46a5-9ced-878dfcfb890d.png = 250x250)
+<img width="250" height="250" alt="Screen Shot 2021-08-14 at 01 06 41" src="https://user-images.githubusercontent.com/79858870/129422800-e196c30c-1b51-46a5-9ced-878dfcfb890d.png">
 
 ## Available Scripts
 
