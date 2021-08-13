@@ -6,15 +6,17 @@ A Facebook Clone that you can sign in with your Google Account and send realtime
 
 ## Topics
 
--React Context API -Redux
--Material UI
--React Hooks
--Flexbox
--Firebase's Firestore realtime Database
--Firebase Google Authentication
--React Flip Move
--Responsive Design
--Deploy the App LIVE on Firebase
+- React Context API -Redux
+- Material UI
+- React Hooks
+- Flexbox
+- Firebase's Firestore realtime Database
+- Firebase Google Authentication
+- React Flip Move
+- Responsive Design
+- Deploy the App LIVE on Firebase
+
+
 
 ### Demo Link
 
