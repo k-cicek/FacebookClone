@@ -1,0 +1,34 @@
+.sidebarRow {
+ display: flex;
+ align-items: center;
+ padding: 8px;
+ cursor: pointer;
+ 
+}
+
+.sidebarRow:hover {
+ background-color: #E3E6E9;
+ border-radius: 10px;
+ 
+}
+
+.sidebarRow>p {
+ margin-left: 20px;
+ font-weight: 500;
+ 
+}
+
+.sidebarRow > .sidebarRow__image {
+ width: 36px;
+ height: 36px;
+ object-fit: contain;
+ border-radius: 10px;
+}
+
+
+
+
+
+
+
+

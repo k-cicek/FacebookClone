@@ -1,0 +1,49 @@
+.sidebar {
+ padding: 25px 10px;
+ width: 100%;
+ flex: 0.33;
+ background-color: #EFF2F5;
+ 
+}
+
+.sidebar > .sidebar__top {
+ height: 74vh;
+ width: 100%;
+ border-bottom: 1px solid lightgray;
+ margin-bottom: 10px;
+ overflow: hidden;
+ 
+}
+
+.sidebar__top:hover {
+ overflow-y: scroll;
+ 
+}
+
+
+
+.sidebar__top::-webkit-scrollbar {
+ width: 12px;
+}
+
+
+.sidebar > .sidebar__bottom {
+ height: 40vh;
+ width: 100%;
+ overflow: hidden;
+}
+
+.sidebar__bottom:hover {
+ overflow-y: scroll;
+}
+
+.sidebar__bottom::-webkit-scrollbar {
+ width: 12px;
+}
+
+
+@media only screen and (max-width: 800px) {
+ .sidebar {
+     display: none;
+ }
+}
